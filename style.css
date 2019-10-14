@@ -24,15 +24,15 @@ html, body{
 }*/
 
 #camera--view, #camera--sensor, #camera--output{
-    /* -webkit-transform: scaleX(-1); */
+    -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
     filter: FlipH;
 }
 
-video {
+/* video {
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
-}
+} */
 
 /* #camera--viewback, #camera--sensor, #camera--output{
     transform: scaleX(-1);
