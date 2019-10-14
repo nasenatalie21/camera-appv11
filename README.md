@@ -1,1 +1,2 @@
-# camera-appv11
+# camera-app
+Super awesome camera web app built with HTML, CSS, and JS.
